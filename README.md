@@ -2,6 +2,9 @@
 Raspberry PI 3 Environment Setup
 
 ## Installing VS Code
+
+[Reference Guide](https://www.hanselman.com/blog/BuildingVisualStudioCodeOnARaspberryPi3.aspx)
+
 Identify ARM 
 <pre>
 uname -m
